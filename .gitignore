@@ -3,6 +3,7 @@ installers/
 
 # conda env
 sample_project_1/env/
+heart-disease-project/env/
 
 # Conf 
 my_projects/config.py
