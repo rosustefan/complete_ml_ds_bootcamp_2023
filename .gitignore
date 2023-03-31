@@ -7,6 +7,8 @@ heart-disease-project/env/
 
 # big data files
 bulldozer-price-prediction-project/data/bluebook-for-bulldozers/
+docs/neural_networks/dog-breed-identification.zip
+docs/neural_networks/dog-breed-identification/
 
 # Conf 
 my_projects/config.py
