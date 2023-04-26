@@ -4,6 +4,7 @@ installers/
 # conda env
 sample_project_1/env/
 heart-disease-project/env/
+breast-cancer-wisconsin-project/.env/
 
 # big data files
 bulldozer-price-prediction-project/data/bluebook-for-bulldozers/
